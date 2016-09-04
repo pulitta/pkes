@@ -10,6 +10,10 @@
 
     mix compile
 
+## Test
+
+    mix test
+
 ## Application start
         
     iex -S mix
